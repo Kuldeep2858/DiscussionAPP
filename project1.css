@@ -1,0 +1,233 @@
+.cntner{
+    border: 2px solid black;
+    height: 900px;
+    width: 100%;
+    background-color: #008080;
+    display: flex;
+    padding-right: 10px;
+     
+}
+h1{
+    color:#008080;
+    font-size: 30px;
+    text-align: center;
+}
+.ldiv{
+    border: 1px solid black;
+    height: 500px;
+    width: 70%;
+    margin-top: 80px;
+    /* margin-left: 20px; */
+    background-color: white;
+    display: none;
+} 
+h4{
+    margin-left: 20px;
+}
+h2{
+    margin-left: 20px;
+    font-size: 40px;
+}
+#abc{
+    border: 2px solid #008080;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+#abc:hover{
+    box-shadow: 10px 10px 5px lightblue;
+    height:30px ;
+}
+#pqr{
+    border: 2px solid #008080;
+    border-radius: 5px;
+    margin-left: 20px;
+    display: block;
+    margin-top: 20px;
+}
+#pqr:hover{
+    box-shadow: 10px 10px 5px lightblue;
+    height: 180px;
+
+}
+#bttn{
+    height: 30px;
+    width: 80px;
+    border: 2px solid #008080;
+    margin-left: 500px;
+    background-color: #008080;
+    margin-top: 20px;
+    color: aliceblue;
+}
+#bttn:hover{
+    box-shadow: 0 0 15px, 0 0 15px;
+    background-color:aqua;
+    box-shadow: 10px 10px 5px lightblue;
+    color: black;
+}
+.rdiv{
+    border: 0px solid black;
+    height: 500px;
+    width: 50%;
+    background-color:#008080;
+    margin-left: 10px;
+    margin-top: 80px;
+    overflow: auto;
+    overflow-x: none;
+    
+}
+.rdiv1{
+    height: 80px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+}
+#bttn1{
+    height: 50px;
+    width: 200px;
+    border: 3px solid #008080;
+    background-color: #008080;
+    color: white;
+    border-radius: 10px;
+}
+#bttn1:hover{
+     background-color: aqua;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    box-shadow: 10px 10px 5px lightblue;
+}
+#bttn2{
+    height: 50px;
+    width: 200px;
+    border: 3px solid #008080;
+    background-color: #008080;
+    color: white;
+    border-radius: 10px;
+}
+#bttn2:hover{
+     background-color: aqua;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    box-shadow: 10px 10px 5px lightblue;
+}
+#inner{
+    height: 100px;
+    width: 600px;
+    border: 2px solid black;
+    background-color: white;
+    margin-top: 10px;
+    color: white;
+    overflow: hidden;
+    overflow-y: auto;
+}
+#heading{
+    text-align: center;
+    color: black;
+}
+#para{
+    text-align: center;
+    color: black;
+}
+#respdiv{
+    border: 1px solid black;
+    height: 800px;
+    width: 70%;
+    margin-top: 80px;
+    background-color: white;
+    display: none;
+} 
+#heading1{
+    margin-left: 30px;
+    font-size: 30px;
+   margin-top: 20px; 
+}
+#hd3{
+    margin-left: 40px;
+    font-size: 25px;
+}
+#paraupper{
+    margin-left: 40px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: white;
+}
+#risdiv{
+    margin-left: 30px;
+    width: 660px;
+    background-color: #008080;
+    border-radius: 26px;
+}
+#resolvebtn{
+    margin-left: 600px;
+    border: 2px solid #008080;
+}
+#heading2{
+    margin-left: 30px;
+    font-size: 30px;
+    display: none;
+}
+#responsediv{
+    height: 80px;
+    width: 660px;
+    margin-left: 30px;
+    background-color: #008080;
+    border-radius: 26px;
+    display: none;
+}
+#response{
+    margin-left: 30px;
+    font-size: 20px;
+}
+ 
+#name{
+    height: 23px;
+    margin-left: 30px;
+    border: 2px solid #008080;
+}
+#comment{
+    display: block;
+    margin-left: 30px;
+    border: 2px solid #008080;
+    margin-top: 20px;
+}
+#lastsubmit{
+    margin-left: 600px;
+    border: 2px solid #008080;
+    margin-top: 20px;
+}
+#lastdivs{
+    margin-left: 30px;
+    height: 150px;
+    width: 660px;
+    background-color: #008080;
+    border-radius: 26px;
+    margin-bottom: 10px;
+    display: none;
+    overflow-y: auto;
+}
+
+#mydiv{
+    background-color:#5ababa;
+    width: 500px;
+    overflow-x: auto;
+    margin: 10px;
+    margin-left: 90px;
+}
+#lasthead{
+    color : black;
+    text-align: left;
+    margin-left: 40px;
+}
+#lastpara{
+    margin-left: 40px;
+    color: white;
+}
+#mydiv h1{
+    color: black;
+}
+#hlo{
+    overflow-y: auto;
+}
